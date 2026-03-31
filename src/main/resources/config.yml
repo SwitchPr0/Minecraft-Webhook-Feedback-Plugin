@@ -5,7 +5,7 @@ discord:
   webhook-url: "YOUR-WEB-HOOK"
 
 # Cooldown in seconds between feedback submissions per player
-cooldown-seconds: 86400
+cooldown-seconds: 900
 
 # Maximum character length of a feedback message
 max-message-length: 500
