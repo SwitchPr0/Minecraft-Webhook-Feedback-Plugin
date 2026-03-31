@@ -2,7 +2,7 @@
 
 discord:
   # Paste your Discord webhook URL here
-  webhook-url: "https://discord.com/api/webhooks/1488639027237359828/uFfs6Hw9ymNZqUkOKfaSylJTRL-PchxdVeetrqegmdZL4i4YJaI3x5bBg5eSGeGykYsl"
+  webhook-url: "YOUR-WEB-HOOK"
 
 # Cooldown in seconds between feedback submissions per player
 cooldown-seconds: 86400
