@@ -1,0 +1,11 @@
+# FeedbackPlugin Configuration
+
+discord:
+  # Paste your Discord webhook URL here
+  webhook-url: "YOUR_WEBHOOK_URL_HERE"
+
+# Cooldown in seconds between feedback submissions per player
+cooldown-seconds: 30
+
+# Maximum character length of a feedback message
+max-message-length: 500
