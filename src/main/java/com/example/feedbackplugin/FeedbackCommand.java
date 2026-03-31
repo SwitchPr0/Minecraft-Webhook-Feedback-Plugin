@@ -66,7 +66,7 @@ public class FeedbackCommand implements CommandExecutor, TabCompleter {
                     long secondsLeft = (remaining / 1000) + 1;
                     sender.sendMessage(Component.text(
                         "Please wait " + (secondsLeft > 60 ? (secondsLeft / 60) + " minute(s)" : secondsLeft + " second(s)") + " before submitting more feedback.",
-                        NamedTextColor.ORANGE
+                        NamedTextColor.GOLD
                     ));
                     return true;
                 }
